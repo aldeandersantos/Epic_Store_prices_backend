@@ -11,6 +11,11 @@ def save_game_from_api(game_data):
     price = price_info.get('originalPrice', 0) / 100 if price_info.get('originalPrice') else None
     discounted_price = price_info.get('discountPrice', 0) / 100 if price_info.get('discountPrice') else None
     currency = price_info.get('currencyCode', 'BRL')
+    percent_discount = 0
+    if price and discounted_price is not None and price > 0:
+        percent_discount = round((price - discounted_price) / price * 100)
+    elif discounted_price is None:
+        percent_discount = 100
 
     game, created = Game.objects.update_or_create(
         slug=slug,
@@ -22,6 +27,7 @@ def save_game_from_api(game_data):
             'price': price,
             'discounted_price': discounted_price,
             'currency': currency,
+            'percent_discount': percent_discount,
         }
     )
     return game

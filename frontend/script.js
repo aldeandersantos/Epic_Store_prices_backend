@@ -1,12 +1,14 @@
-async function fetchGames() {
+let currentPage = 1;
+const PAGE_SIZE = 15;
+
+async function fetchGames(page = 1) {
     document.getElementById('loading').style.display = 'block';
     document.getElementById('games').innerHTML = '';
     try {
-        const response = await fetch('http://localhost:8000/api/games/');
+        const response = await fetch(`http://localhost:8000/api/games/?page_size=${PAGE_SIZE}&page=${page}`);
         if (!response.ok) throw new Error('Erro ao buscar jogos');
         let games = await response.json();
-        console.log('Resposta da API:', games); // <-- Adicione esta linha
-        // Se vier um objeto com a chave Content, tenta fazer o parse
+        console.log('Resposta da API:', games);
         if (games.Content && typeof games.Content === 'string') {
             try {
                 games = JSON.parse(games.Content);
@@ -22,15 +24,29 @@ async function fetchGames() {
     }
 }
 
+function renderPagination() {
+    const pagDiv = document.getElementById('pagination');
+    pagDiv.innerHTML = `
+        <button onclick="changePage(currentPage-1)" ${currentPage === 1 ? 'disabled' : ''}>Anterior</button>
+        <span>Página ${currentPage}</span>
+        <button onclick="changePage(currentPage+1)">Próxima</button>
+    `;
+}
+
+function changePage(page) {
+    if (page < 1) return;
+    currentPage = page;
+    fetchGames(currentPage);
+    renderPagination();
+}
+
 function renderGames(games) {
     if (!games.length) {
         document.getElementById('games').innerHTML = '<p>Nenhum jogo encontrado.</p>';
         return;
     }
     document.getElementById('games').innerHTML = games.map(game => {
-        // Tenta encontrar a imagem em diferentes campos
         let img = game.image_url || game.image || (game.images && game.images[0] && (game.images[0].url || game.images[0])) || 'https://via.placeholder.com/220x120?text=Sem+Imagem';
-        // Tenta encontrar o preço
         let preco = (game.price !== undefined && game.price !== null) ? Number(game.price).toFixed(2) :
                     (game.discounted_price !== undefined && game.discounted_price !== null) ? Number(game.discounted_price).toFixed(2) : 'N/A';
         return `
@@ -43,5 +59,7 @@ function renderGames(games) {
     }).join('');
 }
 
-// Carrega ao abrir
-document.addEventListener('DOMContentLoaded', fetchGames);
+document.addEventListener('DOMContentLoaded', () => {
+    fetchGames(currentPage);
+    renderPagination();
+});

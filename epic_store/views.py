@@ -11,7 +11,21 @@ import time
 
 @api_view(['GET'])
 def list_games(request):
-    games = Game.objects.all()
+    
+    page_size = request.GET.get('page_size')
+    page = request.GET.get('page')
+
+    if page_size and page:
+        try:
+            page_size = int(page_size)
+            page = int(page)
+            start = (page - 1) * page_size
+            end = start + page_size
+            games = Game.objects.all()[start:end]
+        except ValueError:
+            games = Game.objects.all()
+    else:
+        games = Game.objects.all()
     serializer = GameSerializer(games, many=True)
     return Response(serializer.data)
 
