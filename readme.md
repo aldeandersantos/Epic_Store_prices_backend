@@ -26,7 +26,7 @@ Este projeto é um backend desenvolvido em Django para interagir com a Epic Game
 
 1. Clone o repositório:
 ```bash
-git clone https://seu-repositorio/Epicstore_backend.git
+git clone https://github.com/aldeandersantos/Epic_Store_prices_backend.git
 cd Epicstore_backend
 ```
 
