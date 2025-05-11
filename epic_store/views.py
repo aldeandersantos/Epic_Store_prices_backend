@@ -18,11 +18,13 @@ def list_games(request):
 @api_view(['GET'])
 def get_game(request):
     try:
-        api = EpicGamesStoreAPI()
+        
         body_data = request.data
         game_slug = body_data.get('game_slug', [])
-        print(f"Game slug: {game_slug}")
-        game = api.get_product(game_slug)
+        if not game_slug:
+            return Response({"error": "Game slug is required."}, status=400)
+        game_name = Game.objects.filter(slug=game_slug).values_list('title', flat=True).first()
+        game = f"https://store.epicgames.com/pt-BR/browse?q={game_name}&sortBy=relevancy&sortDir=DESC&count=40"
         return Response(game, status=200)
     except Game.DoesNotExist:
         return Response({"error": "Game not found."}, status=404)
