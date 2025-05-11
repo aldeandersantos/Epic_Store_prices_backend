@@ -15,6 +15,18 @@ def list_games(request):
     serializer = GameSerializer(games, many=True)
     return Response(serializer.data)
 
+@api_view(['GET'])
+def get_game(request):
+    try:
+        api = EpicGamesStoreAPI(locale='pt-BR', country='BR')
+        body_data = request.data
+        game_slug = body_data.get('game_slug', [])
+        print(f"Game slug: {game_slug}")
+        game = api.get_product(game_slug)
+        return Response(game, status=200)
+    except Game.DoesNotExist:
+        return Response({"error": "Game not found."}, status=404)
+
 
 @api_view(['POST'])
 def update_games(request):
