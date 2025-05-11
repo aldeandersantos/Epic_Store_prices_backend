@@ -11,9 +11,16 @@ import time
 
 @api_view(['GET'])
 def list_games(request):
-    
     page_size = request.GET.get('page_size')
     page = request.GET.get('page')
+    order_by = request.GET.get('order_by', None)
+
+    games = Game.objects.all()
+
+    if order_by:
+        games = games.order_by(order_by)
+    else:
+        games = games.order_by('discounted_price')
 
     if page_size and page:
         try:
@@ -21,11 +28,10 @@ def list_games(request):
             page = int(page)
             start = (page - 1) * page_size
             end = start + page_size
-            games = Game.objects.all()[start:end]
+            games = games[start:end]
         except ValueError:
-            games = Game.objects.all()
-    else:
-        games = Game.objects.all()
+            pass
+
     serializer = GameSerializer(games, many=True)
     return Response(serializer.data)
 

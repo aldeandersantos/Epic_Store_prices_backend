@@ -1,19 +1,10 @@
 {% extends "base.html" %}
 {% block title %}Epic Store Catálogo{% endblock %}
 {% block content %}
-    <button class="refresh-btn" onclick="fetchGames(currentPage)">Atualizar Lista</button>
     <div id="games" class="game-list"></div>
     <div id="pagination" style="text-align:center;margin:2rem 0;"></div>
     <div id="loading" class="loading" style="display:none;">Carregando...</div>
 {% endblock %}
 {% block scripts %}
     <script src="/static/script.js"></script>
-    <script>
-        try {
-            // Existing fetchGames logic here
-        } catch (e) {
-            document.getElementById('games').innerHTML = '<p>Erro ao carregar jogos: ' + e + '</p>';
-            console.error('Erro detalhado:', e);
-        }
-    </script>
 {% endblock %}
