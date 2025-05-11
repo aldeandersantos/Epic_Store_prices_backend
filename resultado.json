@@ -1,0 +1,2344 @@
+
+    {
+        "title": "A Vingança do Planeta Selvagem",
+        "id": "87414a35e6f5477bb32da6095c7d0994",
+        "namespace": "0ac5868e8b8443ba9d31178cf7c4d1aa",
+        "description": "Revenge of the Savage Planet é uma aventura de ação e ficção científica satírica e animada. Salta, dispara e recolhe o teu caminho através de vibrantes mundos alienígenas, descobrindo novos equipamentos e melhoramentos, enquanto descobres vários segredos escondidos.",
+        "effectiveDate": "2025-05-08T17:00:00.000Z",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-309c6.jpg"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-5zdqs.png"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-5zdqs.png"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://21553de9-c4ce-4cc4-80ba-a6b9256e0cfd?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F0301e500fcc545d5b4d86ca301990fdf%2Frevenge-of-the-savage-planet-video-k3cqz.jpg"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://ff4e5e65-4ef2-4c81-b28f-e92365dddcd8?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F0301e500fcc545d5b4d86ca301990fdf%2Frevenge-of-the-savage-planet-video-1r433.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-t3fo2.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-mf6jx.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-1vz14.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-1bhb4.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-1yhcu.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-o27h3.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-17yb3.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-1tsiu.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-1i2e7.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-duhxe.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-xure9.jpg"
+            }
+        ],
+        "seller": {
+            "id": "o-uv3bg5crvrnuud3shwp2ck5qgvkyy6",
+            "name": "Raccoon Logic"
+        },
+        "productSlug": null,
+        "urlSlug": "654fdeea1af4413a802822e07462f6b0",
+        "url": null,
+        "tags": [
+            {
+                "id": "1264"
+            },
+            {
+                "id": "29088"
+            },
+            {
+                "id": "1121"
+            },
+            {
+                "id": "1381"
+            },
+            {
+                "id": "21894"
+            },
+            {
+                "id": "19847"
+            },
+            {
+                "id": "1336"
+            },
+            {
+                "id": "22776"
+            },
+            {
+                "id": "1370"
+            },
+            {
+                "id": "9547"
+            },
+            {
+                "id": "9549"
+            },
+            {
+                "id": "1183"
+            }
+        ],
+        "items": [
+            {
+                "id": "f1ec22aefe91438086c231000935d8d9",
+                "namespace": "0ac5868e8b8443ba9d31178cf7c4d1aa"
+            }
+        ],
+        "customAttributes": [
+            {
+                "key": "autoGeneratedPrice",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetViewableDate",
+                "value": "true"
+            },
+            {
+                "key": "isPromotionalContentUsed",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetPCReleaseDate",
+                "value": "false"
+            },
+            {
+                "key": "isBlockchainUsed",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "path": "games"
+            },
+            {
+                "path": "games/edition"
+            },
+            {
+                "path": "games/edition/base"
+            }
+        ],
+        "price": {
+            "totalPrice": {
+                "discountPrice": 9719,
+                "originalPrice": 10799,
+                "voucherDiscount": 0,
+                "discount": 1080,
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2
+                },
+                "fmtPrice": {
+                    "originalPrice": "R$ 107,99",
+                    "discountPrice": "R$ 97,19",
+                    "intermediatePrice": "R$ 97,19"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "6accd0d02ec0476e99d66b8565df9cdd",
+                            "endDate": "2025-05-15T23:59:00.000Z",
+                            "discountSetting": {
+                                "discountType": "PERCENTAGE"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "Deadtime Defenders",
+        "id": "cff516f0708444ee8ee06a96e6986b34",
+        "namespace": "bd93f0ee6bcb47f9abc3ef018cb97a0d",
+        "description": "Complete bounties, acquire legendary loot, upgrade your gear, and level up as you fight back against invading monsters in this side-scrolling looter shooter RPG.",
+        "effectiveDate": "2025-05-08T15:00:00.000Z",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1r5me.png"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1gchw.png"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1gchw.png"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://e0dd5cdb-8bc7-430c-8700-3745fae9a56e?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fe2ab063cf7714c29ad3261312a24a264%2Fdeadtime-defenders-video-ge0cl.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1swl6.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-olimh.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-4dqev.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1x2g3.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1t0mj.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1ev9r.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1mzmi.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-11wst.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-okt4a.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-bazkh.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-15e3w.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-ofn10.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-7ihvp.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-qhaz5.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-131ko.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-lyi91.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-6usmr.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-rc4zn.jpg"
+            },
+            {
+                "type": "OgImage",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-kk1jm.jpg"
+            }
+        ],
+        "seller": {
+            "id": "o-8ejptp3p7szx5jtbcpvur5nczb7yf2",
+            "name": "Arcane Embers Game Studio Inc."
+        },
+        "productSlug": null,
+        "urlSlug": "828138b1254d4ea79bc50b9909c30a3f",
+        "url": null,
+        "tags": [
+            {
+                "id": "21894"
+            },
+            {
+                "id": "19847"
+            },
+            {
+                "id": "1336"
+            },
+            {
+                "id": "1210"
+            },
+            {
+                "id": "1370"
+            },
+            {
+                "id": "9547"
+            },
+            {
+                "id": "9549"
+            },
+            {
+                "id": "1263"
+            }
+        ],
+        "items": [
+            {
+                "id": "d9ad00e2c8e44270bc4bc75416a9eb09",
+                "namespace": "bd93f0ee6bcb47f9abc3ef018cb97a0d"
+            }
+        ],
+        "customAttributes": [
+            {
+                "key": "autoGeneratedPrice",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetViewableDate",
+                "value": "true"
+            },
+            {
+                "key": "isPromotionalContentUsed",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetPCReleaseDate",
+                "value": "true"
+            },
+            {
+                "key": "isBlockchainUsed",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "path": "freegames"
+            },
+            {
+                "path": "games"
+            },
+            {
+                "path": "games/edition"
+            },
+            {
+                "path": "games/edition/base"
+            }
+        ],
+        "price": {
+            "totalPrice": {
+                "discountPrice": 0,
+                "originalPrice": 2699,
+                "voucherDiscount": 0,
+                "discount": 2699,
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2
+                },
+                "fmtPrice": {
+                    "originalPrice": "R$ 26,99",
+                    "discountPrice": "0",
+                    "intermediatePrice": "0"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "6e2fb8fb672e418bb1c77c5e6230b530",
+                            "endDate": "2025-05-15T15:00:00.000Z",
+                            "discountSetting": {
+                                "discountType": "PERCENTAGE"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "Empyreal",
+        "id": "88c63727a48b459ca9ebd91ef9bbbdb9",
+        "namespace": "b72f8398191a41f79f1fbb30f4facfd0",
+        "description": "Empyreal é um RPG de ação complexo, desafiador e rico em recursos.\n\nEm um canto distante da galáxia, uma expedição chega em a planeta até então inexplorado e se depara com um monólito colossal construído por uma civilização extinta.",
+        "effectiveDate": "2025-05-08T09:00:00.000Z",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/spt-assets/3bccd522a45241edb97b38dd19687d71/empyreal-10imf.jpg"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/spt-assets/3bccd522a45241edb97b38dd19687d71/empyreal-1hh0o.jpg"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/spt-assets/3bccd522a45241edb97b38dd19687d71/empyreal-1hh0o.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/3bccd522a45241edb97b38dd19687d71/empyreal-x4fox.jpg"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://8e7b68d9-3215-425d-a75d-e6ffe39ac2aa?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F3bccd522a45241edb97b38dd19687d71%2Fempyreal-video-au7j7.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/3bccd522a45241edb97b38dd19687d71/empyreal-108c8.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/3bccd522a45241edb97b38dd19687d71/empyreal-2efbk.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/3bccd522a45241edb97b38dd19687d71/empyreal-1d1ub.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/3bccd522a45241edb97b38dd19687d71/empyreal-bel6u.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/3bccd522a45241edb97b38dd19687d71/empyreal-1cxke.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/3bccd522a45241edb97b38dd19687d71/empyreal-56iow.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/3bccd522a45241edb97b38dd19687d71/empyreal-1v9qs.jpg"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://ef64523c-d8ab-41dc-81b5-cba87067d336?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F3bccd522a45241edb97b38dd19687d71%2Fempyreal-video-1jt0m.png"
+            }
+        ],
+        "seller": {
+            "id": "o-rdrzv6e26usvcn4dsevv2mpfr4bytu",
+            "name": "Secret Mode"
+        },
+        "productSlug": null,
+        "urlSlug": "empyreal",
+        "url": null,
+        "tags": [
+            {
+                "id": "1216"
+            },
+            {
+                "id": "1367"
+            },
+            {
+                "id": "19847"
+            },
+            {
+                "id": "1370"
+            },
+            {
+                "id": "9547"
+            },
+            {
+                "id": "1263"
+            }
+        ],
+        "items": [
+            {
+                "id": "eea7692477f6493692496fda4de5c64a",
+                "namespace": "b72f8398191a41f79f1fbb30f4facfd0"
+            }
+        ],
+        "customAttributes": [
+            {
+                "key": "autoGeneratedPrice",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetViewableDate",
+                "value": "true"
+            },
+            {
+                "key": "isPromotionalContentUsed",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetPCReleaseDate",
+                "value": "false"
+            },
+            {
+                "key": "isBlockchainUsed",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "path": "games/edition/base"
+            },
+            {
+                "path": "games/edition"
+            },
+            {
+                "path": "games"
+            }
+        ],
+        "price": {
+            "totalPrice": {
+                "discountPrice": 6299,
+                "originalPrice": 6999,
+                "voucherDiscount": 0,
+                "discount": 700,
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2
+                },
+                "fmtPrice": {
+                    "originalPrice": "R$ 69,99",
+                    "discountPrice": "R$ 62,99",
+                    "intermediatePrice": "R$ 62,99"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "0b63519e806b4774a03128b099cb0fb4",
+                            "endDate": "2025-05-22T09:00:00.000Z",
+                            "discountSetting": {
+                                "discountType": "PERCENTAGE"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "SILENT HILL 2 - Deluxe Edition",
+        "id": "bcb73a1b859148bca65ea315eb4e028c",
+        "namespace": "f69f64df68b844e89c75e0a5fe95ea5f",
+        "description": "Investigando uma carta de sua falecida esposa, James retorna para onde eles criaram tantas lembranças - Silent Hill.\nO que ele encontra é uma cidade fantasma, rondada por monstros perturbadores e envolta em uma névoa profunda.",
+        "effectiveDate": "2025-05-08T07:00:00.000Z",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-f2yk7.jpg"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-viwzf.jpg"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-viwzf.jpg"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://df08da79-ec89-41e7-904e-bef5d9492833?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff551e4fb31b34bd19991a31ed23522b1%2Fsilent-hill-2-video-4aege.png"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://3ea99956-b02c-423f-9703-bb992e56f356?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff551e4fb31b34bd19991a31ed23522b1%2Fsilent-hill-2-video-1qn3e.jpg"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://1ea9bcc7-9efb-47a5-a79d-6dc08ef6571e?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff551e4fb31b34bd19991a31ed23522b1%2Fsilent-hill-2-video-1plki.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-1ul46.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-1hgpu.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-udd06.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-pw5uk.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-1kk5y.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-k7gat.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-aven7.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-1o8x0.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-i2jut.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-umrz1.jpg"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://10a94361-bd93-4a26-b890-7c09c596de8c"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://85493fc9-28e6-4381-8d26-f1ced764a88a?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff551e4fb31b34bd19991a31ed23522b1%2Fsilent-hill-2-video-1fw6w.png"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://ec133ee3-f2a8-4ac9-a410-0ca10442b563?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff551e4fb31b34bd19991a31ed23522b1%2Fsilent-hill-2-video-zr5pj.jpg"
+            }
+        ],
+        "seller": {
+            "id": "o-snd8ledlra6sytkbbve7h5uwuxuytv",
+            "name": "KONAMI"
+        },
+        "productSlug": null,
+        "urlSlug": "silent-hill-2-deluxe-edition",
+        "url": null,
+        "tags": [
+            {
+                "id": "1218"
+            },
+            {
+                "id": "19847"
+            },
+            {
+                "id": "1336"
+            },
+            {
+                "id": "1370"
+            },
+            {
+                "id": "9547"
+            },
+            {
+                "id": "9549"
+            }
+        ],
+        "items": [
+            {
+                "id": "45b657951d894dd398531b1566058546",
+                "namespace": "f69f64df68b844e89c75e0a5fe95ea5f"
+            }
+        ],
+        "customAttributes": [
+            {
+                "key": "autoGeneratedPrice",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetViewableDate",
+                "value": "true"
+            },
+            {
+                "key": "isPromotionalContentUsed",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetPCReleaseDate",
+                "value": "true"
+            }
+        ],
+        "categories": [
+            {
+                "path": "games/edition"
+            },
+            {
+                "path": "games"
+            }
+        ],
+        "price": {
+            "totalPrice": {
+                "discountPrice": 27965,
+                "originalPrice": 39950,
+                "voucherDiscount": 0,
+                "discount": 11985,
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2
+                },
+                "fmtPrice": {
+                    "originalPrice": "R$ 399,50",
+                    "discountPrice": "R$ 279,65",
+                    "intermediatePrice": "R$ 279,65"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "ba221269f7b14defbc6135b6f7892458",
+                            "endDate": "2025-05-15T07:00:00.000Z",
+                            "discountSetting": {
+                                "discountType": "PERCENTAGE"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "SILENT HILL 2",
+        "id": "b7d5dbee1d8d4516a2184e24fc7722bb",
+        "namespace": "f69f64df68b844e89c75e0a5fe95ea5f",
+        "description": "Investigando uma carta de sua falecida esposa, James retorna para onde eles criaram tantas lembranças - Silent Hill.\nO que ele encontra é uma cidade fantasma, rondada por monstros perturbadores e envolta em uma névoa profunda.",
+        "effectiveDate": "2025-05-08T07:00:00.000Z",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-1makl.jpg"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-19wjd.png"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-19wjd.png"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://a1800de5-42d3-46ae-b754-60d70beb761d?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff551e4fb31b34bd19991a31ed23522b1%2Fsilent-hill-2-video-16qk1.png"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://0bbedb78-d835-4a46-ad25-570ff9960554?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff551e4fb31b34bd19991a31ed23522b1%2Fsilent-hill-2-video-61zbo.jpg"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://118bb3cf-6d78-4c5d-bb08-2277d27f3d41?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff551e4fb31b34bd19991a31ed23522b1%2Fsilent-hill-2-video-5tyix.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-scprt.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-1dixw.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-1ek52.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-e63hx.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-w99gm.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-1jf5x.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-1jp01.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-1wxk3.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-1q7k2.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f551e4fb31b34bd19991a31ed23522b1/silent-hill-2-19bow.jpg"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://20fe928e-d6d4-4553-af65-3dcd8cdc3997?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff551e4fb31b34bd19991a31ed23522b1%2Fsilent-hill-2-video-9rl0r.jpg"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://70140d4b-6e17-4fb1-84af-790aac20d4c9?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff551e4fb31b34bd19991a31ed23522b1%2Fsilent-hill-2-video-11tem.png"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://b41153f0-9dad-4943-92ca-8b1b98aaf35c?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff551e4fb31b34bd19991a31ed23522b1%2Fsilent-hill-2-video-w6ndl.jpg"
+            }
+        ],
+        "seller": {
+            "id": "o-snd8ledlra6sytkbbve7h5uwuxuytv",
+            "name": "KONAMI"
+        },
+        "productSlug": null,
+        "urlSlug": "502bc560c0ab46fcba1f891592a990ed",
+        "url": null,
+        "tags": [
+            {
+                "id": "1218"
+            },
+            {
+                "id": "19847"
+            },
+            {
+                "id": "1336"
+            },
+            {
+                "id": "1370"
+            },
+            {
+                "id": "9547"
+            },
+            {
+                "id": "9549"
+            }
+        ],
+        "items": [
+            {
+                "id": "b0d5f1952ae0490ca25ce0c33a4abca8",
+                "namespace": "f69f64df68b844e89c75e0a5fe95ea5f"
+            }
+        ],
+        "customAttributes": [
+            {
+                "key": "autoGeneratedPrice",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetViewableDate",
+                "value": "true"
+            },
+            {
+                "key": "isPromotionalContentUsed",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetPCReleaseDate",
+                "value": "true"
+            },
+            {
+                "key": "isBlockchainUsed",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "path": "games/edition/base"
+            },
+            {
+                "path": "games/edition"
+            },
+            {
+                "path": "games"
+            }
+        ],
+        "price": {
+            "totalPrice": {
+                "discountPrice": 24493,
+                "originalPrice": 34990,
+                "voucherDiscount": 0,
+                "discount": 10497,
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2
+                },
+                "fmtPrice": {
+                    "originalPrice": "R$ 349,90",
+                    "discountPrice": "R$ 244,93",
+                    "intermediatePrice": "R$ 244,93"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "d8f7d15be24d4a529ee702ba5b0b6524",
+                            "endDate": "2025-05-15T07:00:00.000Z",
+                            "discountSetting": {
+                                "discountType": "PERCENTAGE"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "Captain Blood",
+        "id": "8f294602966444f9be50d4334db3b750",
+        "namespace": "5010921c8e014613a67f16e799adf1b8",
+        "description": "Captain Blood é um jogo de ação em que você assume o papel de temível pirata em busca de ouro e glória. Pode contar com grandes aventuras cheias de canhões, pistolas, lutas de espadas, fanfarronice, entre outros símbolos da vida de pirata.",
+        "effectiveDate": "2025-05-07T07:00:00.000Z",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/spt-assets/e4f7e4bbe2434f3d86159159ffbb40fb/captain-blood-1qzcl.jpg"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/spt-assets/e4f7e4bbe2434f3d86159159ffbb40fb/captain-blood-1d2u2.jpg"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/spt-assets/e4f7e4bbe2434f3d86159159ffbb40fb/captain-blood-1d2u2.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e4f7e4bbe2434f3d86159159ffbb40fb/captain-blood-133u2.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e4f7e4bbe2434f3d86159159ffbb40fb/captain-blood-1o40u.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e4f7e4bbe2434f3d86159159ffbb40fb/captain-blood-xkbx4.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e4f7e4bbe2434f3d86159159ffbb40fb/captain-blood-66rim.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e4f7e4bbe2434f3d86159159ffbb40fb/captain-blood-19k8i.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e4f7e4bbe2434f3d86159159ffbb40fb/captain-blood-mdwzr.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e4f7e4bbe2434f3d86159159ffbb40fb/captain-blood-10t5r.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e4f7e4bbe2434f3d86159159ffbb40fb/captain-blood-1ckd9.jpg"
+            }
+        ],
+        "seller": {
+            "id": "o-ksgzfcfp9zeyqt86qknygb99w4xu5q",
+            "name": "SNEG"
+        },
+        "productSlug": null,
+        "urlSlug": "6c54fe7022df4a3a828881b78be0372e",
+        "url": null,
+        "tags": [
+            {
+                "id": "1216"
+            },
+            {
+                "id": "21894"
+            },
+            {
+                "id": "1336"
+            },
+            {
+                "id": "1370"
+            },
+            {
+                "id": "9547"
+            },
+            {
+                "id": "9549"
+            },
+            {
+                "id": "1198"
+            },
+            {
+                "id": "10719"
+            }
+        ],
+        "items": [
+            {
+                "id": "330e35e3c2014b4485e118502c74eb26",
+                "namespace": "5010921c8e014613a67f16e799adf1b8"
+            }
+        ],
+        "customAttributes": [
+            {
+                "key": "autoGeneratedPrice",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetViewableDate",
+                "value": "true"
+            },
+            {
+                "key": "isPromotionalContentUsed",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetPCReleaseDate",
+                "value": "false"
+            },
+            {
+                "key": "isBlockchainUsed",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "path": "games/edition/base"
+            },
+            {
+                "path": "games/edition"
+            },
+            {
+                "path": "games"
+            }
+        ],
+        "price": {
+            "totalPrice": {
+                "discountPrice": 6659,
+                "originalPrice": 7399,
+                "voucherDiscount": 0,
+                "discount": 740,
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2
+                },
+                "fmtPrice": {
+                    "originalPrice": "R$ 73,99",
+                    "discountPrice": "R$ 66,59",
+                    "intermediatePrice": "R$ 66,59"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "e92c4eb8f35a46209aca848c8b77a83d",
+                            "endDate": "2025-05-14T07:00:00.000Z",
+                            "discountSetting": {
+                                "discountType": "PERCENTAGE"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "Revenge of the Savage Planet: Edição Colecionador Cósmico",
+        "id": "684e5868b45649008cabd3464860eac3",
+        "namespace": "0ac5868e8b8443ba9d31178cf7c4d1aa",
+        "description": "Revenge of the Savage Planet é um jogo de ação e aventura Sci-Fi animado e satírico. Pule, atire e colete enquanto explora mundos alienígenas vibrantes, descobrindo novos equipamentos, atualizações e vários segredos escondidos.",
+        "effectiveDate": "2025-05-05T17:00:00.000Z",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-19sdx.png"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-5gulu.png"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-5gulu.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-wo0bs.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-1uda4.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-8p6wl.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-1mly0.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-gpwak.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-ac1k3.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-m7kur.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-1nnva.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/0301e500fcc545d5b4d86ca301990fdf/revenge-of-the-savage-planet-1xj4n.png"
+            }
+        ],
+        "seller": {
+            "id": "o-uv3bg5crvrnuud3shwp2ck5qgvkyy6",
+            "name": "Raccoon Logic"
+        },
+        "productSlug": null,
+        "urlSlug": "revenge-of-the-savage-planet-cosmic-hoarder-edition-01",
+        "url": null,
+        "tags": [
+            {
+                "id": "1264"
+            },
+            {
+                "id": "29088"
+            },
+            {
+                "id": "1121"
+            },
+            {
+                "id": "1381"
+            },
+            {
+                "id": "19847"
+            },
+            {
+                "id": "1336"
+            },
+            {
+                "id": "22776"
+            },
+            {
+                "id": "1370"
+            },
+            {
+                "id": "9547"
+            },
+            {
+                "id": "9549"
+            },
+            {
+                "id": "1183"
+            }
+        ],
+        "items": [
+            {
+                "id": "d7714b7ec5e74af895abb5372c263ddf",
+                "namespace": "0ac5868e8b8443ba9d31178cf7c4d1aa"
+            }
+        ],
+        "customAttributes": [
+            {
+                "key": "autoGeneratedPrice",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetViewableDate",
+                "value": "true"
+            },
+            {
+                "key": "isPromotionalContentUsed",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetPCReleaseDate",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "path": "games"
+            },
+            {
+                "path": "games/edition"
+            }
+        ],
+        "price": {
+            "totalPrice": {
+                "discountPrice": 12149,
+                "originalPrice": 13499,
+                "voucherDiscount": 0,
+                "discount": 1350,
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2
+                },
+                "fmtPrice": {
+                    "originalPrice": "R$ 134,99",
+                    "discountPrice": "R$ 121,49",
+                    "intermediatePrice": "R$ 121,49"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "0652dfa80ee742679a33ed7259981f98",
+                            "endDate": "2025-05-15T23:59:00.000Z",
+                            "discountSetting": {
+                                "discountType": "PERCENTAGE"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "Drop Duchy",
+        "id": "ff5efc3a56354478926274ddc027b058",
+        "namespace": "3dbf4826633443e6bb0d7ecac1c52253",
+        "description": "Build your duchy piece by piece in this refreshing hybrid rogue-lite game. Use block-dropping mechanics to collect resources, recruit troops to fight against belligerent armies, and let every block shape your realm, leading your path to victory!",
+        "effectiveDate": "2025-05-05T15:00:00.000Z",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/spt-assets/906960adfa4d4d0ea987ceee5d1662ed/drop-duchy-jp7bj.png"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/spt-assets/906960adfa4d4d0ea987ceee5d1662ed/drop-duchy-vz935.png"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/spt-assets/906960adfa4d4d0ea987ceee5d1662ed/drop-duchy-vz935.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/906960adfa4d4d0ea987ceee5d1662ed/drop-duchy-e3zxz.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/906960adfa4d4d0ea987ceee5d1662ed/drop-duchy-1muku.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/906960adfa4d4d0ea987ceee5d1662ed/drop-duchy-rbwfg.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/906960adfa4d4d0ea987ceee5d1662ed/drop-duchy-1fptz.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/906960adfa4d4d0ea987ceee5d1662ed/drop-duchy-1o8j9.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/906960adfa4d4d0ea987ceee5d1662ed/drop-duchy-aav99.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/906960adfa4d4d0ea987ceee5d1662ed/drop-duchy-3mfyc.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/906960adfa4d4d0ea987ceee5d1662ed/drop-duchy-1vdso.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/906960adfa4d4d0ea987ceee5d1662ed/drop-duchy-gwcuw.png"
+            }
+        ],
+        "seller": {
+            "id": "o-fnktlq53watq74lercf286pb2793eu",
+            "name": "Dotemu"
+        },
+        "productSlug": null,
+        "urlSlug": "3a51833183584ce09d0fbe4ee73ddd42",
+        "url": null,
+        "tags": [
+            {
+                "id": "1298"
+            },
+            {
+                "id": "21894"
+            },
+            {
+                "id": "19847"
+            },
+            {
+                "id": "1370"
+            },
+            {
+                "id": "1083"
+            },
+            {
+                "id": "9547"
+            },
+            {
+                "id": "1181"
+            },
+            {
+                "id": "9549"
+            }
+        ],
+        "items": [
+            {
+                "id": "ada5a3c997c64422b36cec67ed06bb1d",
+                "namespace": "3dbf4826633443e6bb0d7ecac1c52253"
+            }
+        ],
+        "customAttributes": [
+            {
+                "key": "autoGeneratedPrice",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetViewableDate",
+                "value": "true"
+            },
+            {
+                "key": "isPromotionalContentUsed",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetPCReleaseDate",
+                "value": "true"
+            },
+            {
+                "key": "isBlockchainUsed",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "path": "games/edition/base"
+            },
+            {
+                "path": "games/edition"
+            },
+            {
+                "path": "games"
+            }
+        ],
+        "price": {
+            "totalPrice": {
+                "discountPrice": 4229,
+                "originalPrice": 4699,
+                "voucherDiscount": 0,
+                "discount": 470,
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2
+                },
+                "fmtPrice": {
+                    "originalPrice": "R$ 46,99",
+                    "discountPrice": "R$ 42,29",
+                    "intermediatePrice": "R$ 42,29"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "5e462e9ec409499f9883b34a201a5be2",
+                            "endDate": "2025-05-12T15:00:00.000Z",
+                            "discountSetting": {
+                                "discountType": "PERCENTAGE"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "Anime Reaper",
+        "id": "86303bc468d94fc4ab7fdfc8cf5d1f9a",
+        "namespace": "29b2af6e39e143ed9925859e9969b4f3",
+        "description": "Destroy the crowd of anime nextbots before they blow you up!",
+        "effectiveDate": "2025-05-02T01:00:00.000Z",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-1cqb6.png"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-1331a.png"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-1331a.png"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://59939c9f-fa91-4bb3-ab02-b835f9276c00?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fbbc90f50862e4e96ae1faaf629f613b2%2Fanime-reaper-video-124s6.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-dw0im.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-2soxh.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-1und3.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-177x8.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-c3mh8.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-3syd0.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-9poue.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-1m9qi.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-v8vew.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-oq621.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-13tgg.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-154vz.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-imc4b.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-okofv.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-l051m.jpg"
+            },
+            {
+                "type": "GalleryImage",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-7wx4u.jpg"
+            },
+            {
+                "type": "GalleryImage",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-1tmlg.jpg"
+            },
+            {
+                "type": "GalleryImage",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-16d4a.jpg"
+            },
+            {
+                "type": "GalleryImage",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-z1mta.jpg"
+            },
+            {
+                "type": "GalleryImage",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-o3fhg.jpg"
+            },
+            {
+                "type": "GalleryImage",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-1m204.jpg"
+            },
+            {
+                "type": "GalleryImage",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-13ueu.jpg"
+            },
+            {
+                "type": "GalleryImage",
+                "url": "https://cdn1.epicgames.com/spt-assets/bbc90f50862e4e96ae1faaf629f613b2/anime-reaper-fh5m3.jpg"
+            }
+        ],
+        "seller": {
+            "id": "o-wdh4p9v73kp5ae982mrxypsnwffvgw",
+            "name": "Pine Games"
+        },
+        "productSlug": null,
+        "urlSlug": "46f451cb503945aeb48380595b4b6e0c",
+        "url": null,
+        "tags": [
+            {
+                "id": "1216"
+            },
+            {
+                "id": "1210"
+            },
+            {
+                "id": "1370"
+            },
+            {
+                "id": "9547"
+            },
+            {
+                "id": "1294"
+            }
+        ],
+        "items": [
+            {
+                "id": "75ebd312ac6d4aa08f218b5be30580f1",
+                "namespace": "29b2af6e39e143ed9925859e9969b4f3"
+            }
+        ],
+        "customAttributes": [
+            {
+                "key": "autoGeneratedPrice",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetViewableDate",
+                "value": "true"
+            },
+            {
+                "key": "isPromotionalContentUsed",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetPCReleaseDate",
+                "value": "false"
+            },
+            {
+                "key": "isBlockchainUsed",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "path": "games/edition/base"
+            },
+            {
+                "path": "games/edition"
+            },
+            {
+                "path": "games"
+            }
+        ],
+        "price": {
+            "totalPrice": {
+                "discountPrice": 201,
+                "originalPrice": 269,
+                "voucherDiscount": 0,
+                "discount": 68,
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2
+                },
+                "fmtPrice": {
+                    "originalPrice": "R$ 2,69",
+                    "discountPrice": "R$ 2,01",
+                    "intermediatePrice": "R$ 2,01"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "6e58d5d11def40e38058ccf0c015426b",
+                            "endDate": "2025-05-15T23:00:00.000Z",
+                            "discountSetting": {
+                                "discountType": "PERCENTAGE"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "Goblintown: Really Hard Driving Game",
+        "id": "eb35d42cc5f142519ec2131795bdab6e",
+        "namespace": "f25f2fbac1e04b1497462a4d08645bde",
+        "description": "Do you have the skill, the moxie, and (most importantly) the FLAPS to be McGoblin Burger’s Greatestest Delivery Gob EVER?? Speed your way through a sadistic gauntlet of hairpin turns, explosions, and other mayhem designed to ruin your run - and don’t forget to SCREAM!",
+        "effectiveDate": "2025-04-30T13:00:00.000Z",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/spt-assets/7592d69f9adf4b558a298812ed173c42/goblintown-really-hard-driving-game-fhx2n.png"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/spt-assets/7592d69f9adf4b558a298812ed173c42/goblintown-really-hard-driving-game-3uaee.png"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/spt-assets/7592d69f9adf4b558a298812ed173c42/goblintown-really-hard-driving-game-3uaee.png"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://69cbf163-5c5a-48c1-b22c-e9e2973f66a8?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F7592d69f9adf4b558a298812ed173c42%2Fgoblintown-really-hard-driving-game-video-1lixl.png"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://fca6c7da-75eb-42e4-a5ee-5cb9c6ea11a9?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F7592d69f9adf4b558a298812ed173c42%2Fgoblintown-really-hard-driving-game-video-1j926.png"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://44e18c6c-3253-4c90-a6d4-23b87c7b0193?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F7592d69f9adf4b558a298812ed173c42%2Fgoblintown-really-hard-driving-game-video-1hi1l.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/7592d69f9adf4b558a298812ed173c42/goblintown-really-hard-driving-game-mw8u8.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/7592d69f9adf4b558a298812ed173c42/goblintown-really-hard-driving-game-16bxt.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/7592d69f9adf4b558a298812ed173c42/goblintown-really-hard-driving-game-tm2gf.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/7592d69f9adf4b558a298812ed173c42/goblintown-really-hard-driving-game-1y6kf.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/7592d69f9adf4b558a298812ed173c42/goblintown-really-hard-driving-game-17gmt.jpg"
+            }
+        ],
+        "seller": {
+            "id": "o-r64g5jm5xsw8cdrtdcykq8e65mvql5",
+            "name": "Truth Arts Inc."
+        },
+        "productSlug": null,
+        "urlSlug": "e187e4b14205489bb4b8db68061b18df",
+        "url": null,
+        "tags": [
+            {
+                "id": "1370"
+            },
+            {
+                "id": "9547"
+            },
+            {
+                "id": "1117"
+            },
+            {
+                "id": "1310"
+            },
+            {
+                "id": "1151"
+            },
+            {
+                "id": "1263"
+            }
+        ],
+        "items": [
+            {
+                "id": "29f0eb61a33a49a782e8330c5a4e148d",
+                "namespace": "f25f2fbac1e04b1497462a4d08645bde"
+            }
+        ],
+        "customAttributes": [
+            {
+                "key": "autoGeneratedPrice",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetViewableDate",
+                "value": "false"
+            },
+            {
+                "key": "isPromotionalContentUsed",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetPCReleaseDate",
+                "value": "false"
+            },
+            {
+                "key": "isBlockchainUsed",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "path": "games/edition/base"
+            },
+            {
+                "path": "games/edition"
+            },
+            {
+                "path": "games"
+            }
+        ],
+        "price": {
+            "totalPrice": {
+                "discountPrice": 2639,
+                "originalPrice": 3999,
+                "voucherDiscount": 0,
+                "discount": 1360,
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2
+                },
+                "fmtPrice": {
+                    "originalPrice": "R$ 39,99",
+                    "discountPrice": "R$ 26,39",
+                    "intermediatePrice": "R$ 26,39"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "8fddf5911c1e4cca8a3e63d9a6f14ba8",
+                            "endDate": "2025-05-14T13:00:00.000Z",
+                            "discountSetting": {
+                                "discountType": "PERCENTAGE"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "Skin Deep - Soundtrack Edition",
+        "id": "d9b45defbadb47b089f5f052da7d1286",
+        "namespace": "1fe54e43f3644b0ea404b4e66a087f8c",
+        "description": "This bundle contains the game Skin Deep as well as the Skin Deep Soundtrack.",
+        "effectiveDate": "2025-04-30T13:00:00.000Z",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/spt-assets/4ae3a6bc07c249ef8c70645beb5a294f/skin-deep-1a3fk.jpg"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/spt-assets/4ae3a6bc07c249ef8c70645beb5a294f/skin-deep-14pt6.png"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/spt-assets/4ae3a6bc07c249ef8c70645beb5a294f/skin-deep-14pt6.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/4ae3a6bc07c249ef8c70645beb5a294f/skin-deep-1m848.jpg"
+            }
+        ],
+        "seller": {
+            "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+            "name": "Annapurna Interactive"
+        },
+        "productSlug": null,
+        "urlSlug": "skin-deep-soundtrack-edition",
+        "url": null,
+        "tags": [
+            {
+                "id": "1216"
+            },
+            {
+                "id": "1393"
+            },
+            {
+                "id": "19847"
+            },
+            {
+                "id": "1129"
+            },
+            {
+                "id": "1370"
+            },
+            {
+                "id": "9547"
+            }
+        ],
+        "items": [
+            {
+                "id": "9ee5db4e413e4ac482316f538169fe7b",
+                "namespace": "1fe54e43f3644b0ea404b4e66a087f8c"
+            }
+        ],
+        "customAttributes": [
+            {
+                "key": "autoGeneratedPrice",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetViewableDate",
+                "value": "true"
+            },
+            {
+                "key": "isPromotionalContentUsed",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetPCReleaseDate",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "path": "games/edition"
+            },
+            {
+                "path": "games"
+            }
+        ],
+        "price": {
+            "totalPrice": {
+                "discountPrice": 7289,
+                "originalPrice": 8099,
+                "voucherDiscount": 0,
+                "discount": 810,
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2
+                },
+                "fmtPrice": {
+                    "originalPrice": "R$ 80,99",
+                    "discountPrice": "R$ 72,89",
+                    "intermediatePrice": "R$ 72,89"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "f212fff688d345b782b95457a8478877",
+                            "endDate": "2025-05-14T12:59:00.000Z",
+                            "discountSetting": {
+                                "discountType": "PERCENTAGE"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "Skin Deep",
+        "id": "8b6124330bff4997ac6087eb2e4f8b5a",
+        "namespace": "1fe54e43f3644b0ea404b4e66a087f8c",
+        "description": "Bem-vindo ao Skin Deep!",
+        "effectiveDate": "2025-04-30T13:00:00.000Z",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/spt-assets/4ae3a6bc07c249ef8c70645beb5a294f/skin-deep-myvqx.jpg"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/spt-assets/4ae3a6bc07c249ef8c70645beb5a294f/skin-deep-1ga6z.jpg"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/spt-assets/4ae3a6bc07c249ef8c70645beb5a294f/skin-deep-1ga6z.jpg"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://2958371d-e3a8-41c2-83a3-f00ffc9673a0?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F4ae3a6bc07c249ef8c70645beb5a294f%2Fskin-deep-video-1kmzz.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/4ae3a6bc07c249ef8c70645beb5a294f/skin-deep-3nrc2.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/4ae3a6bc07c249ef8c70645beb5a294f/skin-deep-hwpys.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/4ae3a6bc07c249ef8c70645beb5a294f/skin-deep-4jduj.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/4ae3a6bc07c249ef8c70645beb5a294f/skin-deep-t4mkm.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/4ae3a6bc07c249ef8c70645beb5a294f/skin-deep-xsq96.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/4ae3a6bc07c249ef8c70645beb5a294f/skin-deep-9tnfo.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/4ae3a6bc07c249ef8c70645beb5a294f/skin-deep-gx42i.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/4ae3a6bc07c249ef8c70645beb5a294f/skin-deep-o1na6.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/4ae3a6bc07c249ef8c70645beb5a294f/skin-deep-oj143.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/4ae3a6bc07c249ef8c70645beb5a294f/skin-deep-hmh6x.png"
+            }
+        ],
+        "seller": {
+            "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+            "name": "Annapurna Interactive"
+        },
+        "productSlug": null,
+        "urlSlug": "b41a033a72be4d20ba0c563e60ea942f",
+        "url": null,
+        "tags": [
+            {
+                "id": "1216"
+            },
+            {
+                "id": "1393"
+            },
+            {
+                "id": "21894"
+            },
+            {
+                "id": "19847"
+            },
+            {
+                "id": "1370"
+            },
+            {
+                "id": "9547"
+            },
+            {
+                "id": "1117"
+            }
+        ],
+        "items": [
+            {
+                "id": "8ddaf848a773451db7b94186b92bd8ff",
+                "namespace": "1fe54e43f3644b0ea404b4e66a087f8c"
+            }
+        ],
+        "customAttributes": [
+            {
+                "key": "autoGeneratedPrice",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetViewableDate",
+                "value": "true"
+            },
+            {
+                "key": "isPromotionalContentUsed",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetPCReleaseDate",
+                "value": "false"
+            },
+            {
+                "key": "isBlockchainUsed",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "path": "games/edition/base"
+            },
+            {
+                "path": "games/edition"
+            },
+            {
+                "path": "games"
+            }
+        ],
+        "price": {
+            "totalPrice": {
+                "discountPrice": 5219,
+                "originalPrice": 5799,
+                "voucherDiscount": 0,
+                "discount": 580,
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2
+                },
+                "fmtPrice": {
+                    "originalPrice": "R$ 57,99",
+                    "discountPrice": "R$ 52,19",
+                    "intermediatePrice": "R$ 52,19"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "fcb4dd189266477383660b66b46491c0",
+                            "endDate": "2025-05-14T12:59:00.000Z",
+                            "discountSetting": {
+                                "discountType": "PERCENTAGE"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "Bioweaver",
+        "id": "2873e2d887314060b88fc47f8cd01400",
+        "namespace": "6bdaccd6890e4bb7b966a3f9367068fd",
+        "description": "Bioweaver is an RPG game with the main content of treasure hunting and character building. You can use basic programming logic to deeply customize your skill sets, and you can also create organs with different attributes and functions with the special crafting system.",
+        "effectiveDate": "2025-04-30T02:00:00.000Z",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/spt-assets/b78cc7dcbb0544529b8d5d7e4de21401/bioweaver-pbwc1.png"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/spt-assets/b78cc7dcbb0544529b8d5d7e4de21401/bioweaver-1b80x.png"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/spt-assets/b78cc7dcbb0544529b8d5d7e4de21401/bioweaver-1b80x.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/b78cc7dcbb0544529b8d5d7e4de21401/bioweaver-1kaxn.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/b78cc7dcbb0544529b8d5d7e4de21401/bioweaver-dyt4w.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/b78cc7dcbb0544529b8d5d7e4de21401/bioweaver-3q1nj.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/b78cc7dcbb0544529b8d5d7e4de21401/bioweaver-1uu1v.png"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://d3775f96-2350-41b7-b4c2-ec59e07ec1a5?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fb78cc7dcbb0544529b8d5d7e4de21401%2Fbioweaver-video-1e4sr.png"
+            }
+        ],
+        "seller": {
+            "id": "o-famms2r4pwk47zaygysdz4aqqgpy5q",
+            "name": "Emprom Game"
+        },
+        "productSlug": null,
+        "urlSlug": "095da195143c40e0b495ab5332fa5062",
+        "url": null,
+        "tags": [
+            {
+                "id": "1367"
+            },
+            {
+                "id": "1370"
+            },
+            {
+                "id": "9547"
+            }
+        ],
+        "items": [
+            {
+                "id": "8ce6583fefc44677a1ae9c581337d389",
+                "namespace": "6bdaccd6890e4bb7b966a3f9367068fd"
+            }
+        ],
+        "customAttributes": [
+            {
+                "key": "autoGeneratedPrice",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetViewableDate",
+                "value": "true"
+            },
+            {
+                "key": "isPromotionalContentUsed",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetPCReleaseDate",
+                "value": "true"
+            },
+            {
+                "key": "isBlockchainUsed",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "path": "games/edition/base"
+            },
+            {
+                "path": "games/edition"
+            },
+            {
+                "path": "games"
+            }
+        ],
+        "price": {
+            "totalPrice": {
+                "discountPrice": 1754,
+                "originalPrice": 2699,
+                "voucherDiscount": 0,
+                "discount": 945,
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2
+                },
+                "fmtPrice": {
+                    "originalPrice": "R$ 26,99",
+                    "discountPrice": "R$ 17,54",
+                    "intermediatePrice": "R$ 17,54"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "477963b990964ebe86c55d57767d089e",
+                            "endDate": "2025-05-11T16:00:00.000Z",
+                            "discountSetting": {
+                                "discountType": "PERCENTAGE"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "title": "Deadzone: Rogue",
+        "id": "92229d53e0184acda658b5df7fd95aee",
+        "namespace": "9babbf152bd1428e9fdd8646934b0da6",
+        "description": "Deadzone: Rogue is a fast-paced roguelite FPS set in deep space. Blast through hordes of enemies with devastating weapons. Define your combat style with powerful augments and upgrades. Grow stronger with each death, solo or in co-op. Fight. Die. Revive. Repeat.",
+        "effectiveDate": "2025-04-29T20:00:00.000Z",
+        "keyImages": [
+            {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-1da2c.jpg"
+            },
+            {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-1nkqx.jpg"
+            },
+            {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-1nkqx.jpg"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://31dea405-4da1-4f7f-ac34-2b0e24f66549?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff0ac8939c29044bd9c188cb3146d122d%2Fdeadzone-rogue-video-1riy1.jpg"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://79a9367c-03df-4f0c-9469-df6122887e02?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff0ac8939c29044bd9c188cb3146d122d%2Fdeadzone-rogue-video-1jwpe.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-9snuv.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-1hjbc.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-1di5d.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-8y89o.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-3mkzl.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-3ywrc.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-hyw65.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-10qbh.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-qvn1g.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-6nb7z.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-aj20z.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-1gn07.png"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-4hsyn.jpg"
+            },
+            {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-1b6ur.jpg"
+            },
+            {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://8b68bde9-2436-44f9-9a90-ce0c0f326a93?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff0ac8939c29044bd9c188cb3146d122d%2Fdeadzone-rogue-video-jjqzp.png"
+            },
+            {
+                "type": "OgImage",
+                "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-2qdod.jpg"
+            }
+        ],
+        "seller": {
+            "id": "o-3xfq7hfvzf4pdcftet4vhxvmrtchmr",
+            "name": "Prophecy Games"
+        },
+        "productSlug": null,
+        "urlSlug": "a209374c29a449f197ce7cc82f1150f2",
+        "url": null,
+        "tags": [
+            {
+                "id": "1216"
+            },
+            {
+                "id": "1264"
+            },
+            {
+                "id": "21894"
+            },
+            {
+                "id": "19847"
+            },
+            {
+                "id": "1210"
+            },
+            {
+                "id": "1370"
+            },
+            {
+                "id": "9547"
+            },
+            {
+                "id": "1083"
+            },
+            {
+                "id": "1310"
+            }
+        ],
+        "items": [
+            {
+                "id": "7a5dcda0e28846bea121e248d5c3ea24",
+                "namespace": "9babbf152bd1428e9fdd8646934b0da6"
+            }
+        ],
+        "customAttributes": [
+            {
+                "key": "autoGeneratedPrice",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetViewableDate",
+                "value": "true"
+            },
+            {
+                "key": "isPromotionalContentUsed",
+                "value": "false"
+            },
+            {
+                "key": "isManuallySetPCReleaseDate",
+                "value": "false"
+            },
+            {
+                "key": "isBlockchainUsed",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "path": "games/edition/base"
+            },
+            {
+                "path": "games/edition"
+            },
+            {
+                "path": "games"
+            }
+        ],
+        "price": {
+            "totalPrice": {
+                "discountPrice": 4999,
+                "originalPrice": 6249,
+                "voucherDiscount": 0,
+                "discount": 1250,
+                "currencyCode": "BRL",
+                "currencyInfo": {
+                    "decimals": 2
+                },
+                "fmtPrice": {
+                    "originalPrice": "R$ 62,49",
+                    "discountPrice": "R$ 49,99",
+                    "intermediatePrice": "R$ 49,99"
+                }
+            },
+            "lineOffers": [
+                {
+                    "appliedRules": [
+                        {
+                            "id": "f3fc0ee498cd46f691ac89eb13ffbc29",
+                            "endDate": "2025-05-13T20:00:00.000Z",
+                            "discountSetting": {
+                                "discountType": "PERCENTAGE"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
