@@ -18,7 +18,7 @@ def list_games(request):
 @api_view(['GET'])
 def get_game(request):
     try:
-        api = EpicGamesStoreAPI(locale='pt-BR', country='BR')
+        api = EpicGamesStoreAPI()
         body_data = request.data
         game_slug = body_data.get('game_slug', [])
         print(f"Game slug: {game_slug}")
@@ -47,7 +47,7 @@ def update_games(request):
             )
             elements = result['data']['Catalog']['searchStore']['elements']
             all_games.extend(elements)
-            time.sleep(1)
+            #time.sleep(1)
             start += count
         if not all_games:
             return Response({"message": "No games found."}, status=404)
@@ -55,7 +55,10 @@ def update_games(request):
         jogos_filtrados = []
         agora = datetime.now(timezone.utc)
         for game in all_games:
-            price_info = game.get('price', {}).get('totalPrice', {})
+            price = game.get('price')
+            if not price:
+                continue
+            price_info = price.get('totalPrice', {})
             original = price_info.get('originalPrice')
             discount = price_info.get('discountPrice')
             effective_date = game.get('effectiveDate')
@@ -84,8 +87,7 @@ def update_games(request):
 
 @api_view(['DELETE'])
 def delete_games(request):
-    try:
-        Game.objects.all().delete()
-        return Response({"message": "Games deleted successfully."}, status=204)
-    except Game.DoesNotExist:
-        return Response({"error": "Game not found."}, status=404)
+    deleted_count, _ = Game.objects.all().delete()
+    if deleted_count == 0:
+        return Response({"message": "No games to delete."}, status=200)
+    return Response({"message": "Games deleted successfully."}, status=200)

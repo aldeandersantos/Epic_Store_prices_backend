@@ -2,8 +2,7 @@ from django.db import models
 
 class Game(models.Model):
     title = models.CharField(max_length=255)
-    game_id = models.CharField(max_length=255, unique=True, default='TEMP')
-    game_slug = models.CharField(max_length=255, unique=True, default='TEMP')
+    game_id = models.CharField(max_length=255, default='TEMP')
     slug = models.SlugField(unique=True)
     description = models.TextField(blank=True)
     image_url = models.URLField(blank=True)
